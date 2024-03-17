@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 991758039234ff349922fa8e055a4981
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ClearAsteroids: {fileID: 1184747477094056784, guid: 0a4a36b375c847a4ebf9b0d769267be7, type: 3}
+  - Refuel1: {fileID: 1050094472989656898, guid: 67110e91e94759e4f9e66580e3cb25d5, type: 3}
+  - Refuel2: {fileID: 4982356041847644426, guid: 82f95193c0b099f4a8837b9a894dc6de, type: 3}
+  - UploadData1: {fileID: 684721485787569904, guid: 625cfb6e17d2140408b069e7843c12ce, type: 3}
+  - UploadData2: {fileID: 684721485787569904, guid: 2d3409769439dbe43b7210c3f84288c2, type: 3}
+  - UploadData3: {fileID: 684721485787569904, guid: 85ef5858a54c5354bad3df8cd4d65973, type: 3}
+  - UploadData4: {fileID: 684721485787569904, guid: 680885e5300d55a4f8b131c5fe05758d, type: 3}
+  - UploadData5: {fileID: 684721485787569904, guid: c7d385d6980a5574e91f2eac28d82635, type: 3}
+  - UploadData6: {fileID: 684721485787569904, guid: 2b4c32abdb67edc4f8a4aa3ed3eca633, type: 3}
+  - DivertPower1: {fileID: 1844134239897258473, guid: 40181404dfa89784eaeee99075dbda80, type: 3}
+  - DivertPower2: {fileID: 1844134239897258473, guid: 154bdd287d04d584d9aee11cb54a6c66, type: 3}
+  - DivertPower3: {fileID: 1844134239897258473, guid: 8f78d25ed6458144eb0773af43885f11, type: 3}
+  - DivertPower4: {fileID: 1844134239897258473, guid: f382ecfee71f5e043ba82234960736cf, type: 3}
+  - DivertPower5: {fileID: 1844134239897258473, guid: 45a69f9abd3bf354cb2dd135d2fd3bee, type: 3}
+  - DivertPower6: {fileID: 1844134239897258473, guid: f5110090df2997b43b2e3bf43b11c651, type: 3}
+  - DivertPower7: {fileID: 1844134239897258473, guid: 44735c6ea0a809d41b1d5d3a47fcf31b, type: 3}
+  - DivertPower8: {fileID: 1844134239897258473, guid: 1650671634164054dad4be6f40d4fb0b, type: 3}
+  - CalibrateDistributor: {fileID: 6657800333615641623, guid: 3b8677bd446b2634eb41f80c0876ae87, type: 3}
+  - EmptyGarbage1: {fileID: 4827669916627125489, guid: d9088a75dedab70408ed6337e950014a, type: 3}
+  - EmptyGarbage2: {fileID: 4827669916627125489, guid: b86cc55ee291f9c4082718d0b5cb6c4b, type: 3}
+  - EmptyGarbage3: {fileID: 4827669916627125489, guid: 9f8fd4e7f2fdbcd4bae33ee663d56f27, type: 3}
+  - PrimeShields: {fileID: 2335905286112716270, guid: a06f9a60ac06d9043bacb359b5556854, type: 3}
+  - RebootWifi1: {fileID: 5966364961111425501, guid: 2c7d498a381022a48863211601e92272, type: 3}
+  - SwipeCard: {fileID: 5143450406246749927, guid: a7203821709b89844bf3c33320929e3a, type: 3}
+  - ChartCourse: {fileID: 2621125925189167271, guid: eb6f3810d91bed24a838eb1499a56433, type: 3}
+  - AlignEngineOutput1: {fileID: 6256081368088142218, guid: e573be0a8952f3846a768a2c9d4ea726, type: 3}
+  - AlignEngineOutput2: {fileID: 6256081368088142218, guid: 55f3efa3f7301664998852399ec03394, type: 3}
+  - InspectSample: {fileID: 6761341636340450290, guid: 505dc3c22719b19458975adc55ae6d05, type: 3}
+  - UnlockManifolds: {fileID: 824448999685967119, guid: 920998f7e4ba3f341b803e693e849524, type: 3}
+  - camera: {instanceID: 0}
+  - useButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

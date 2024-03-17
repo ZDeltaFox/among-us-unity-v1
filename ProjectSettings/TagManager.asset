@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Refuel2
+  - DivertPower4
+  - RebootWifi
+  - DivertPower8
+  - EmptyGarbage2
+  - DivertPower1
+  - UnlockManifolds
+  - DivertPower3
+  - O2r1
+  - ChartCourse
+  - Refuel1
+  - DivertPower6
+  - UploadData5
+  - InspectSample
+  - Lights
+  - UploadData2
+  - AlignEngineOutput2
+  - UploadData3
+  - EmptyGarbage1
+  - SwipeCard
+  - AlignEngineOutput1
+  - DivertPower5
+  - O2r2
+  - CalibrateDistributor
+  - UploadData6
+  - EmptyGarbage3
+  - UploadData4
+  - Asteroids
+  - PrimeShields
+  - DivertPower7
+  - DivertPower2
+  - UploadData1
+  - Player9
+  - Player4
+  - Player10
+  - Player2
+  - Player1
+  - Player5
+  - Player7
+  - Player3
+  - Player8
+  - Player6
+  - Report
+  - DeathBody
+  - ReportButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
